@@ -2,11 +2,11 @@
 
 ### Frontend Developer | React.js • JavaScript • Tailwind CSS
 
-[cite_start]I am a passionate **Frontend Developer** with 2+ years of experience building responsive, accessible, and high-performance web applications[cite: 5]. [cite_start]I specialize in turning complex designs into seamless user experiences using modern JavaScript frameworks[cite: 5, 7].
+I am a passionate **Frontend Developer** with 2+ years of experience building responsive, accessible, and high-performance web applications. I specialize in turning complex designs into seamless user experiences using modern JavaScript frameworks.
 
-* [cite_start]🚀 Delivered **5+ production-ready** client projects[cite: 6].
-* [cite_start]📉 Reduced support queries by **25%** through intuitive UI/UX design[cite: 6, 17].
-* [cite_start]⚡ Improved web performance and load times by **40%**[cite: 19].
+* 🚀 Delivered **5+ production-ready** client projects.
+* 📉 Reduced support queries by **25%** through intuitive UI/UX design.
+* ⚡ Improved web performance and load times by **40%**.
 
 ---
 
@@ -31,14 +31,7 @@
 
 ---
 
-### 📈 Key Projects
-
-* [cite_start]**Customer Support Dashboard (2025):** Real-time analytics and ticket tracking built with React and Chart.js[cite: 21, 23, 24].
-* [cite_start]**E-Commerce Product Catalog:** Dynamic filtering and Redux-based shopping cart functionality[cite: 27, 29, 31].
-
----
-
 ### 📫 Connect With Me
 
-* [cite_start]**Email:** [palliyalafsal@gmail.com](mailto:palliyalafsal@gmail.com) [cite: 3]
-* [cite_start]**LinkedIn:** [linkedin.com/in/afsal-p-28775225a](https://www.linkedin.com/in/afsal-p-28775225a/) [cite: 3]
+* **Email:** [palliyalafsal@gmail.com](mailto:palliyalafsal@gmail.com)
+* **LinkedIn:** [linkedin.com/in/afsal-p-28775225a](https://www.linkedin.com/in/afsal-p-28775225a/)
