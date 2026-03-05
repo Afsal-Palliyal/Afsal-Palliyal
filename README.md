@@ -1,27 +1,9 @@
 # Hi there 👋 I'm Afsal P
 
-### Frontend Developer | React • JavaScript • UI Engineering
+### 🚀 Frontend Developer | React • JavaScript • UI Engineering
 
 I am a **Frontend Developer with 2+ years of experience** building responsive, accessible, and high-performance web applications.  
 I specialize in translating complex UI designs into **scalable, user-focused interfaces** using modern JavaScript technologies.
-
-🚀 **Key Highlights**
-
-- Built **5+ production-ready client applications**
-- Improved application performance and load time by **40%**
-- Reduced user support queries by **25%** through improved UI/UX design
-- Experienced in building **interactive dashboards and data visualizations**
-
----
-
-# 🌐 Portfolio
-
-🔗 **Live Portfolio:**  
-👉 https://afsal-dev.vercel.app
-
-This portfolio showcases my projects, frontend architecture, and UI engineering approach.
-
----
 
 # 🛠 Tech Stack
 
@@ -46,32 +28,11 @@ This portfolio showcases my projects, frontend architecture, and UI engineering 
 
 ---
 
-# 🚀 Featured Projects
+## 📊 GitHub Stats
 
-### SpendWise — Personal Expense Tracker
-A modern finance dashboard for tracking expenses and visualizing spending patterns.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afsal-Palliyal&show_icons=true&theme=tokyonight)
 
-**Tech:** React • TypeScript • Vite • Chart.js • SCSS  
-
-🔗 Live Demo  
-https://spendwise-expense-tracker-zeta.vercel.app
-
-🔗 GitHub  
-https://github.com/Afsal-Palliyal/spendwise
-
-
----
-
-### Nexus AI — SaaS Landing Page
-A modern SaaS landing page focused on clean UI design and performance.
-
-**Tech:** HTML • CSS • JavaScript  
-
-🔗 Live Demo  
-https://nexus-ai-lime-nine.vercel.app
-
-🔗 GitHub  
-https://github.com/Afsal-Palliyal/nexus-ai
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afsal-Palliyal&layout=compact&theme=tokyonight)
 
 ---
 
