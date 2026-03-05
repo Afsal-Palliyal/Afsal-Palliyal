@@ -28,14 +28,6 @@ I specialize in translating complex UI designs into **scalable, user-focused int
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Afsal-Palliyal&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Afsal-Palliyal&layout=compact&theme=tokyonight)
-
----
-
 # 📫 Connect With Me
 
 📧 Email  
