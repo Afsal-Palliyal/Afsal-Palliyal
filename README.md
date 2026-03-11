@@ -2,7 +2,7 @@
 
 ### 🚀 Frontend Developer | React • JavaScript • Modern UI Development
 
-I am a **Frontend Developer with 2+ years of experience** building responsive, accessible, and high-performance web applications.  
+I am a **Frontend Developer with 2.5+ years of experience** building responsive, accessible, and high-performance web applications.  
 I specialize in translating complex UI designs into **scalable, user-focused interfaces** using modern JavaScript technologies.
 
 ---
