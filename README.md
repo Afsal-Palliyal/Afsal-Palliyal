@@ -31,6 +31,11 @@ I specialize in translating complex UI designs into **scalable, user-focused int
 
 ---
 
+# 📊 GitHub Stats:
+![](https://nirzak-streak-stats.vercel.app/?user=Afsal-Palliyal&theme=dark&hide_border=false)
+
+---
+
 # 📫 Connect With Me
 
 📧 Email  
