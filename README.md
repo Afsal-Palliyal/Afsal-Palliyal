@@ -32,7 +32,7 @@ I specialize in translating complex UI designs into **scalable, user-focused int
 ---
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Afsal-Palliyal&theme=dark&hide_border=false)
+![](https://streak-stats.demolab.com/?user=Afsal-Palliyal&theme=dark&hide_border=false)
 
 ---
 
